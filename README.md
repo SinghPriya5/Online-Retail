@@ -8,15 +8,15 @@ This project showcases the work completed as part of the Tata Data Visualization
 
 ## 📊 Table of Contents 📊
 
-- [📊 Introduction](##introduction)
-- [📊 About the Dataset](##about-the-dataset)
-- [📊 Skills Developed](##skills-developed)
-- [📊 Project Tasks](##project-tasks)
-- [📊 Key Insights](##key-insights)
-- [📊 Future Work](##future-work)
-- [📊 Conclusion](##conclusion)
-- [📊 Power BI Dashboard](##power-bi-dashboard)
-- [📊 Certificate](##certificate)
+- [Introduction](#introduction)
+- [📊 About the Dataset](#about-the-dataset)
+- [📊 Skills Developed](#skills-developed)
+- [📊 Project Tasks](#project-tasks)
+- [📊 Key Insights](#key-insights)
+- [📊 Future Work](#future-work)
+- [📊 Conclusion](#conclusion)
+- [📊 Power BI Dashboard](#power-bi-dashboard)
+- [📊 Certificate](#certificate)
 
 ## 📊 Introduction 📊
 The Tata Data Visualization Virtual Experience Program allowed me to develop essential skills in data visualization, data analytics, and business insight generation by solving tasks inspired by real-world scenarios. The program emphasized using visualization to make data-driven decisions for organizational success.
