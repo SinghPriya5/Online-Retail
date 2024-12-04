@@ -30,6 +30,7 @@ The dataset analyzed during this program consisted of business performance metri
 - **Time Trends**: Month-over-month trends in sales and profit.
 
 <h2 id="skills-developed"> 📊 Skills Developed 📊</h2>
+
 - **Data Visualization**: Creating impactful visualizations using tools like Power BI.
 - **Data Analysis**: Identifying trends, outliers, and actionable insights.
 - **Business Intelligence**: Translating data insights into strategic recommendations.
@@ -44,6 +45,7 @@ The dataset analyzed during this program consisted of business performance metri
 5. **Recommendations**: Proposing data-driven strategies for business growth.
 
 <h2 id="key-insights">📊 Key Insights 📊</h2>
+
 - **Top-Performing Regions**: Regions like Asia-Pacific showed significant revenue growth.
 - **Seasonal Trends**: Sales peaked during Q4, highlighting the importance of seasonal campaigns.
 - **Profit Margins**: Certain categories had consistently high margins, suggesting an opportunity for increased investment.
