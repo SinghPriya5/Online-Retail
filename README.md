@@ -8,8 +8,8 @@ This project showcases the work completed as part of the Tata Data Visualization
 
 ## 📊 Table of Contents 📊
 
-- [📊 Introduction](#introduction)
-- [📊 About the Dataset](#about-the-dataset)
+- <a href="#introduction">📊 Introduction</a>
+- <a href="#about-the-dataset">📊 About the Dataset</a>
 - [📊 Skills Developed](#skills-developed)
 - [📊 Project Tasks](#project-tasks)
 - [📊 Key Insights](#key-insights)
